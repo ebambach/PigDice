@@ -1,0 +1,7 @@
+C:\repos\PigDiceSolution\PigDiceProject\bin\Debug\PigDiceProject.exe.config
+C:\repos\PigDiceSolution\PigDiceProject\bin\Debug\PigDiceProject.exe
+C:\repos\PigDiceSolution\PigDiceProject\bin\Debug\PigDiceProject.pdb
+C:\repos\PigDiceSolution\PigDiceProject\obj\Debug\PigDiceProject.csprojResolveAssemblyReference.cache
+C:\repos\PigDiceSolution\PigDiceProject\obj\Debug\PigDiceProject.csproj.CoreCompileInputs.cache
+C:\repos\PigDiceSolution\PigDiceProject\obj\Debug\PigDiceProject.exe
+C:\repos\PigDiceSolution\PigDiceProject\obj\Debug\PigDiceProject.pdb
